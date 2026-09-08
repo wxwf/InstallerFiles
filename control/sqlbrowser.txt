@@ -1,0 +1,4 @@
+TS-SQLBROWSER-ON-Ed3lrYYAUTxqTGCQ
+# TreeSoft SQL Table Browser control file.
+# While this file exists AND still contains the token line above, the tool runs.
+# To STOP it on every machine: delete this file, or remove/change the token line.
